@@ -1,1 +1,1 @@
-arrayVeg = ["banda","onion"]
+arrayVeg = ["banda","oni"]
