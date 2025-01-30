@@ -1,0 +1,1 @@
+arrayVeg = ["banbanda","onion"]
